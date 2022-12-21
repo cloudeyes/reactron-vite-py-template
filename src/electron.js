@@ -18,8 +18,6 @@ const shutdown = (port) => {
   );
 };
 
-return;
-
 /**
  * @namespace BrowserWindow
  * @description - Electron browser windows.
